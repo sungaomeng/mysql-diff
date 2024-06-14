@@ -1,0 +1,4 @@
+pymysql
+requests
+requests-toolbelt
+openpyxl
